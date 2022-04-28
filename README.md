@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GoldenPortfolio
-- 👀 I’m interested in ...Blockchain, solidity and cryptocurrency projects. 
+- 👀 I’m interested in ...Blockchain, solidity, Mtoko, Dfinity, Fintech and cryptocurrency projects. 
 - 🌱 I’m currently learning ...MySQL, Docker, Rust, 
 - 💞️ I’m looking to collaborate on ... Any and all web3, blockchain projects including NFT, Swaps, Cryptocurrency, Wallets or Cyber-Security. 
 - 📫 How to reach me ...Centuriitechnologies@gmail.com
