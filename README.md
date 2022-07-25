@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @GoldenPortfolio
-- 👀 I’m interested in ...Blockchain, solidity, Mtoko, Dfinity, Fintech and cryptocurrency projects. 
-- 🌱 I’m currently learning ...MySQL, Docker, Rust, 
-- 💞️ I’m looking to collaborate on ... Any and all web3, blockchain projects including NFT, Swaps, Cryptocurrency, Wallets or Cyber-Security. 
+- 👋 Hi, I’m @Centurii AI 
+- 👀 I’m interested in ...Blockchain, solidity, Mtoko, Dfinity, Fintech, Artifical Intelligence, Python and more. 
+- 🌱 I’m currently learning ...MySQL, Docker, Python, Machine Learning
+- 💞️ I’m looking to collaborate on ... Any and all web3, blockchain projects including NFT, Swaps, Cryptocurrency, Wallets, Cyber-Security, Artifical Intelligence. 
 - 📫 How to reach me ...Centuriitechnologies@gmail.com
 
 <!---
-GoldenPortfolio/GoldenPortfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Centurii AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
