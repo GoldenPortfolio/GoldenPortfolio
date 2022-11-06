@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Centurii AI 
+- 👋 Hi, I’m @Centurii Technologies
 - 👀 I’m interested in ...Blockchain, solidity, Mtoko, Dfinity, Fintech, Artifical Intelligence, Python and more. 
 - 🌱 I’m currently learning ...MySQL, Docker, Python, Machine Learning
 - 💞️ I’m looking to collaborate on ... Any and all web3, blockchain projects including NFT, Swaps, Cryptocurrency, Wallets, Cyber-Security, Artifical Intelligence. 
